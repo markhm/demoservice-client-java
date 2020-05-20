@@ -1,6 +1,10 @@
 package dk.serviceplatformen.demoservice.client.sts;
 
-import org.apache.ws.security.WSPasswordCallback;
+// For <cxf.version>2.7.14</cxf.version>
+// import org.apache.ws.security.WSPasswordCallback;
+
+// For <cxf.version>3.3.6</cxf.version>
+import org.apache.wss4j.common.ext.WSPasswordCallback;
 
 import javax.security.auth.callback.Callback;
 import javax.security.auth.callback.CallbackHandler;
