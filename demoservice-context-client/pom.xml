@@ -6,6 +6,7 @@
         <groupId>dk.kombit.serviceplatformen</groupId>
         <artifactId>demoservice-client-parent</artifactId>
         <version>1.0</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>demoservice-context-client</artifactId>
