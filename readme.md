@@ -16,7 +16,7 @@ This file is targeted at Java developers who implement integrations to Servicepl
  * Java Development Kit 8 installed.
  * Apache Maven 3.2.5 or higher is installed.
  
-The client is fully configured and should work as is. The client is tested with Java 8.
+The client is fully configured and should work as is. The client was tested with Java 8.
 
 ### EXECUTION
 
